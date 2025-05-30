@@ -1,0 +1,20 @@
+# Data Analysis & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+
+# Machine Learning
+scikit-learn
+
+# Streamlit for chatbot app
+streamlit
+
+# Optional: If using Gemini / Azure APIs (uncomment if needed)
+# google-generativeai
+# openai
+# azure-ai-ml
+
+# Optional: for environment handling
+python-dotenv
