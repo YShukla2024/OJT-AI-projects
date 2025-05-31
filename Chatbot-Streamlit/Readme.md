@@ -229,10 +229,6 @@ streamlit run chatbot.py --server.port 8502
 - [ ] Add user authentication
 - [ ] Implement conversation analytics
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 Created with ❤️ using Streamlit
