@@ -28,6 +28,7 @@ approx_cost(for two people)	Approximate cost for two
 listed_in(type)	Type of service (Delivery, Buffet, etc.)
 
 📈 EDA Performed
+
 ✅ Univariate Analysis
 
 ✅ Bivariate Analysis

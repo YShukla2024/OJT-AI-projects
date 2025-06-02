@@ -4,7 +4,6 @@ A user-friendly chatbot built with Streamlit using basic if-else logic for conve
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.0+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 🌟 Features
 
@@ -229,10 +228,6 @@ streamlit run chatbot.py --server.port 8502
 - [ ] Integrate with databases for persistent storage
 - [ ] Add user authentication
 - [ ] Implement conversation analytics
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
