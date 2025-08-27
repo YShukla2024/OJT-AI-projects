@@ -28,7 +28,5 @@ This project is structured into four main layers:
 
 Below is the flow of how data moves through the project:
 
-![Project Flowchart](https://gitdiagram.com/YShukla2024/OJT-AI-projects/diagram.svg)
-
 > 👉 [View interactive version here](https://gitdiagram.com/YShukla2024/OJT-AI-projects)  
 (Click nodes to open files directly in the repository.)
